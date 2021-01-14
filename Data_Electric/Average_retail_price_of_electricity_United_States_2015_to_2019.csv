@@ -1,0 +1,13 @@
+"Average retail price of electricity"
+"https://www.eia.gov/electricity/data/browser/#/topic/7?agg=0,1&geo=g&endsec=vg&linechart=ELEC.PRICE.US-ALL.A~ELEC.PRICE.US-RES.A~ELEC.PRICE.US-COM.A~ELEC.PRICE.US-IND.A&columnchart=ELEC.PRICE.US-ALL.A~ELEC.PRICE.US-RES.A~ELEC.PRICE.US-COM.A~ELEC.PRICE.US-IND.A&map=ELEC.PRICE.US-ALL.A&freq=A&start=2015&end=2019&ctype=linechart&ltype=pin&rtype=s&maptype=0&rse=0&pin="
+"Thu Jan 14 2021 12:09:44 GMT-0500 (Eastern Standard Time)"
+"Source: U.S. Energy Information Administration"
+"description","units","source key","2015","2016","2017","2018","2019"
+"Average retail price of electricity","cents per kilowatthour",,,,,,
+"United States","cents per kilowatthour","ELEC.PRICE.US-ALL.A",,,,,
+"United States : all sectors","cents per kilowatthour","ELEC.PRICE.US-ALL.A",10.41,10.27,10.48,10.53,10.54
+"United States : residential","cents per kilowatthour","ELEC.PRICE.US-RES.A",12.65,12.55,12.89,12.87,13.01
+"United States : commercial","cents per kilowatthour","ELEC.PRICE.US-COM.A",10.64,10.43,10.66,10.67,10.68
+"United States : industrial","cents per kilowatthour","ELEC.PRICE.US-IND.A",6.91,6.76,6.88,6.92,6.81
+"United States : transportation","cents per kilowatthour","ELEC.PRICE.US-TRA.A",10.09,9.63,9.68,9.70,9.66
+"United States : other","cents per kilowatthour","ELEC.PRICE.US-OTH.A","--","--","--","--","--"

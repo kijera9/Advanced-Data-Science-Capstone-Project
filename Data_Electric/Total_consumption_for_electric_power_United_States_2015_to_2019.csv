@@ -1,0 +1,11 @@
+"Total consumption for electric power"
+"https://www.eia.gov/electricity/data/browser/#/topic/2?agg=2,0,1&fuel=f&geo=g&sec=008&freq=A&start=2015&end=2019&ctype=linechart&ltype=pin&rtype=s&maptype=0&rse=0&pin="
+"Thu Jan 14 2021 12:02:56 GMT-0500 (Eastern Standard Time)"
+"Source: U.S. Energy Information Administration"
+"description","units","source key","2015","2016","2017","2018","2019"
+"Total consumption for electric power",,,,,,,
+"United States",,"ELEC.CONS_TOT..A",,,,,
+"United States : coal","thousand tons","ELEC.CONS_TOT.COW-US-98.A",738444,678554,664993,637217,538601
+"United States : petroleum liquids","thousand barrels","ELEC.CONS_TOT.PEL-US-98.A",29253,22075,21321,28268,20438
+"United States : petroleum coke","thousand tons","ELEC.CONS_TOT.PC-US-98.A",3907,4138,3399,3549,2655
+"United States : natural gas","thousand Mcf","ELEC.CONS_TOT.NG-US-98.A",9613370,9985270,9265565,10590225,11287053
